@@ -6,6 +6,9 @@ Assignment by Thomas Yingling
 Last Update 01/27/2021
 
 Be sure to have numpy, matplotlib, and IPython installed
-pip install IPython 
+
+pip install IPython
+
 pip install numpy
+
 pip install matplotlib
